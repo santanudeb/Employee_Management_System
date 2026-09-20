@@ -1,0 +1,21 @@
+# Environment / Secrets
+.env
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+
+# Old versions / backups
+versions/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
