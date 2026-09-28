@@ -21,6 +21,9 @@ The application provides a graphical interface for managing employee records, au
 - Logout functionality
 
 ### 👨‍💼 Employee Management
+
+![Employee Management](screenshots/Employee_Modification.png)
+
 - Add new employees
 - Update employee information
 - Delete individual employees
@@ -34,6 +37,9 @@ The application provides a graphical interface for managing employee records, au
   - Employee information
 
 ### 🔄 Employee Restore
+
+![Employee Restore](screenshots/employee_restore.jpg)
+
 - Deleted employees are moved to a separate database table
 - View deleted employee records
 - Restore individual employees
@@ -64,6 +70,8 @@ Charts are created using Matplotlib.
 
 ### 🔎 Employee Search
 
+![Employee Search](screenshots/Search.png)
+
 Search employee records based on fields such as:
 
 - Employee ID
@@ -75,6 +83,8 @@ Search employee records based on fields such as:
 
 ### 📁 Data Export
 
+![Employee Search](screenshots/Export_excel.png)
+
 Export employee records to:
 
 - CSV
@@ -82,9 +92,13 @@ Export employee records to:
 
 ### 💾 Database Backup
 
+![Database Backup](screenshots/sql_backup.jpg)
+
 Create SQL database backups from the application using a save dialog.
 
 ### 🤖 Ask AI About Your Database
+
+![Database Backup](screenshots/Ask_AI_about_your_database.jpg)
 
 The application includes an AI-powered database assistant using:
 
@@ -103,6 +117,10 @@ The AI converts natural-language questions into SQL, executes the query against 
 The AI assistant is designed as a **read-only database analysis tool** and only allows `SELECT` queries.
 
 ### 🌓 Light & Dark Mode
+
+| Light Mode | Dark Mode |
+|---|---|
+| ![Login](screenshots/Employees_Interface.jpg) | ![Change Password](screenshots/dark_mode.png) |
 
 The application supports:
 
