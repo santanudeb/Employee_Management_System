@@ -36,7 +36,9 @@ The application provides a graphical interface for managing employee records, au
 - Track when an employee was deleted
 
 ### 📊 Employee Dashboard 
+
 ![Employee Dashboard](screenshots/dashboard.png)
+
 Interactive dashboard containing:
 
 - Total employees
