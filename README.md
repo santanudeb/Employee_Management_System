@@ -12,7 +12,7 @@ The application provides a graphical interface for managing employee records, au
 
 | Login | Change Password |
 |---|---|
-| ![Login](login.jpg) | ![Change Password](login_change_password.jpg) |
+| ![Login](screenshots/login.jpg) | ![Change Password](screenshots/login_change_password.jpg) |
 
 - Login system with username and password
 - Password hashing using SHA-256
