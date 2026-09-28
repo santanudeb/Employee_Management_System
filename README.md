@@ -35,7 +35,8 @@ The application provides a graphical interface for managing employee records, au
 - Restore all deleted employees
 - Track when an employee was deleted
 
-### 📊 Employee Dashboard
+### 📊 Employee Dashboard 
+![Dashboard]([dashboard.png](https://github.com/santanudeb/Employee_Management_System/blob/main/screenshots/dashboard.png))
 Interactive dashboard containing:
 
 - Total employees
